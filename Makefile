@@ -3,6 +3,8 @@
 # project subdirectory.
 #
 
+IDF_PATH=/home/steczol/esp/esp-idf
+
 PROJECT_NAME := app-template
 
 include $(IDF_PATH)/make/project.mk
